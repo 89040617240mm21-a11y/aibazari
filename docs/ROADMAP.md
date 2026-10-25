@@ -12,6 +12,7 @@
 - Three doors at start: **sell by photo**, **give away / ask for help**, **"is this a scam?" check** (forward any suspicious message — the bot explains the warning signs)
 - Max 3 buttons; more directions open one by one after the first useful result
 - Money between people never goes through us; the bot warns "never pay in advance"
+- Fair use: 50 AI actions per person per day (100 for trusted users); search and browsing are unlimited
 
 ## ⚪ Stage 2 — Website (weeks 3–4) · Сайт
 - aibazari.com: listings searchable by Google, city pages
