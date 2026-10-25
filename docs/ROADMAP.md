@@ -9,7 +9,9 @@
 - Sign in via Telegram, language auto-detect
 - Post a listing in free text / voice / photo → AI makes a clean card
 - Search, "write to the author", my listings, delete
-- Directions at start: things, give away, ask for help, services
+- Three doors at start: **sell by photo**, **give away / ask for help**, **"is this a scam?" check** (forward any suspicious message — the bot explains the warning signs)
+- Max 3 buttons; more directions open one by one after the first useful result
+- Money between people never goes through us; the bot warns "never pay in advance"
 
 ## ⚪ Stage 2 — Website (weeks 3–4) · Сайт
 - aibazari.com: listings searchable by Google, city pages
